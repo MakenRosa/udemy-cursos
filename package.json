@@ -1,0 +1,22 @@
+{
+  "name": "udemy-cursos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MakenRosa/udemy-cursos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MakenRosa/udemy-cursos/issues"
+  },
+  "homepage": "https://github.com/MakenRosa/udemy-cursos#readme",
+  "devDependencies": {
+    "semantic-release": "^23.0.2"
+  }
+}
